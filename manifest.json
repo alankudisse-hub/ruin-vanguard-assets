@@ -1,0 +1,412 @@
+{
+  "version": "1.0",
+  "project": "RUIN VANGUARD",
+  "notice": "Original asset sheets are preserved; exported cells are rectangular grid crops, with transparency preserved. Only animation frame series must be played in order.",
+  "sheets": {
+    "S1": {
+      "type": "static",
+      "source": "ruin_S1_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S1/vanguard_operative.png",
+        "01_STATIC_ASSETS/S1/heavy_shield_guardian.png",
+        "01_STATIC_ASSETS/S1/scavenger_raider.png",
+        "01_STATIC_ASSETS/S1/toxic_hazmat_soldier.png",
+        "01_STATIC_ASSETS/S1/mutant_commander.png",
+        "01_STATIC_ASSETS/S1/biomechanical_mutant.png",
+        "01_STATIC_ASSETS/S1/corrupted_executioner.png",
+        "01_STATIC_ASSETS/S1/shock_trooper.png",
+        "01_STATIC_ASSETS/S1/wasteland_marksman.png"
+      ]
+    },
+    "S2": {
+      "type": "static",
+      "source": "ruin_S2_masked.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S2/corrupted_assault_drone.png",
+        "01_STATIC_ASSETS/S2/hunter_recon_drone.png",
+        "01_STATIC_ASSETS/S2/plasma_bomber_drone.png",
+        "01_STATIC_ASSETS/S2/cyber_beast.png",
+        "01_STATIC_ASSETS/S2/razor_hound.png",
+        "01_STATIC_ASSETS/S2/spider_bot.png",
+        "01_STATIC_ASSETS/S2/hover_turret_drone.png",
+        "01_STATIC_ASSETS/S2/assault_robot.png",
+        "01_STATIC_ASSETS/S2/juggernaut_behemoth.png"
+      ]
+    },
+    "S3": {
+      "type": "static",
+      "source": "ruin_S3_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S3/titan_siege_mech.png",
+        "01_STATIC_ASSETS/S3/mutated_alpha_beast.png",
+        "01_STATIC_ASSETS/S3/arc_warden_commander.png",
+        "01_STATIC_ASSETS/S3/cyber_lich_overlord.png",
+        "01_STATIC_ASSETS/S3/toxic_colossus.png",
+        "01_STATIC_ASSETS/S3/magma_reactor_golem.png",
+        "01_STATIC_ASSETS/S3/void_executioner_prime.png",
+        "01_STATIC_ASSETS/S3/drone_swarm_queen.png",
+        "01_STATIC_ASSETS/S3/biomechanical_war_priest.png"
+      ]
+    },
+    "S4": {
+      "type": "static",
+      "source": "ruin_S4_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S4/reinforced_industrial_barricade.png",
+        "01_STATIC_ASSETS/S4/heavy_concrete_metal_cover.png",
+        "01_STATIC_ASSETS/S4/angled_defense_wall.png",
+        "01_STATIC_ASSETS/S4/broken_security_barrier.png",
+        "01_STATIC_ASSETS/S4/armored_half_height_cover.png",
+        "01_STATIC_ASSETS/S4/raised_energy_shield_emitter.png",
+        "01_STATIC_ASSETS/S4/blast_door_segment.png",
+        "01_STATIC_ASSETS/S4/tactical_cover_crate.png",
+        "01_STATIC_ASSETS/S4/hazard_cover_slab.png"
+      ]
+    },
+    "S5": {
+      "type": "static",
+      "source": "ruin_S5_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S5/wrecked_industrial_core.png",
+        "01_STATIC_ASSETS/S5/fusion_barrel.png",
+        "01_STATIC_ASSETS/S5/toxic_waste_canister.png",
+        "01_STATIC_ASSETS/S5/broken_power_generator.png",
+        "01_STATIC_ASSETS/S5/energy_relay_node.png",
+        "01_STATIC_ASSETS/S5/sci_fi_control_terminal.png",
+        "01_STATIC_ASSETS/S5/ruined_mechanical_console.png",
+        "01_STATIC_ASSETS/S5/ventilation_unit.png",
+        "01_STATIC_ASSETS/S5/pipe_cluster_machine.png"
+      ]
+    },
+    "S6": {
+      "type": "static",
+      "source": "ruin_S6_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S6/cyan_plasma_energy_orb.png",
+        "01_STATIC_ASSETS/S6/green_health_stim.png",
+        "01_STATIC_ASSETS/S6/blue_shield_recharge.png",
+        "01_STATIC_ASSETS/S6/orange_scrap_pickup.png",
+        "01_STATIC_ASSETS/S6/purple_upgrade_chip.png",
+        "01_STATIC_ASSETS/S6/red_damage_boost.png",
+        "01_STATIC_ASSETS/S6/teal_speed_boost.png",
+        "01_STATIC_ASSETS/S6/yellow_ammo_cell.png",
+        "01_STATIC_ASSETS/S6/magenta_ultimate_charge.png"
+      ]
+    },
+    "S7": {
+      "type": "static",
+      "source": "ruin_S7_masked.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S7/cyan_plasma_bolt.png",
+        "01_STATIC_ASSETS/S7/green_toxic_spit.png",
+        "01_STATIC_ASSETS/S7/red_laser_shot.png",
+        "01_STATIC_ASSETS/S7/orange_explosive_orb.png",
+        "01_STATIC_ASSETS/S7/blue_shield_impact.png",
+        "01_STATIC_ASSETS/S7/cyan_plasma_hit.png",
+        "01_STATIC_ASSETS/S7/orange_explosion.png",
+        "01_STATIC_ASSETS/S7/purple_energy_slash.png",
+        "01_STATIC_ASSETS/S7/magenta_critical_hit.png"
+      ]
+    },
+    "S8": {
+      "type": "static",
+      "source": "ruin_S8_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S8/ruined_industrial_floor.png",
+        "01_STATIC_ASSETS/S8/cracked_metal_grating.png",
+        "01_STATIC_ASSETS/S8/damaged_floor_panel.png",
+        "01_STATIC_ASSETS/S8/raised_platform.png",
+        "01_STATIC_ASSETS/S8/corner_platform.png",
+        "01_STATIC_ASSETS/S8/walkway.png",
+        "01_STATIC_ASSETS/S8/pit_edge.png",
+        "01_STATIC_ASSETS/S8/hazard_striped_floor.png",
+        "01_STATIC_ASSETS/S8/broken_deck_plate.png"
+      ]
+    },
+    "S9": {
+      "type": "static",
+      "source": "ruin_S9_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "01_STATIC_ASSETS/S9/raised_industrial_platform.png",
+        "01_STATIC_ASSETS/S9/sunken_pit.png",
+        "01_STATIC_ASSETS/S9/bridge_over_reactor_gap.png",
+        "01_STATIC_ASSETS/S9/broken_catwalk.png",
+        "01_STATIC_ASSETS/S9/large_cover_bunker.png",
+        "01_STATIC_ASSETS/S9/industrial_wall_corner.png",
+        "01_STATIC_ASSETS/S9/energy_trench.png",
+        "01_STATIC_ASSETS/S9/reactor_chamber_edge.png",
+        "01_STATIC_ASSETS/S9/platform_with_railings.png"
+      ]
+    },
+    "A1": {
+      "type": "animation",
+      "source": "ruin_A1_cutout.png",
+      "atlas_size": [
+        1600,
+        1600
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        533.3333333333334,
+        533.3333333333334
+      ],
+      "files": [
+        "02_ANIMATIONS/A1/vanguard_walk_frame_01.png",
+        "02_ANIMATIONS/A1/vanguard_walk_frame_02.png",
+        "02_ANIMATIONS/A1/vanguard_walk_frame_03.png",
+        "02_ANIMATIONS/A1/vanguard_walk_frame_04.png",
+        "02_ANIMATIONS/A1/vanguard_walk_frame_05.png",
+        "02_ANIMATIONS/A1/vanguard_walk_frame_06.png",
+        "02_ANIMATIONS/A1/vanguard_walk_frame_07.png",
+        "02_ANIMATIONS/A1/vanguard_walk_frame_08.png",
+        "02_ANIMATIONS/A1/vanguard_walk_frame_09.png"
+      ]
+    },
+    "A2": {
+      "type": "animation",
+      "source": "ruin_A2_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_01.png",
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_02.png",
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_03.png",
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_04.png",
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_05.png",
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_06.png",
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_07.png",
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_08.png",
+        "02_ANIMATIONS/A2/vanguard_shoot_frame_09.png"
+      ]
+    },
+    "A3": {
+      "type": "animation",
+      "source": "ruin_A3_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_01.png",
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_02.png",
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_03.png",
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_04.png",
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_05.png",
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_06.png",
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_07.png",
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_08.png",
+        "02_ANIMATIONS/A3/biomechanical_mutant_attack_frame_09.png"
+      ]
+    },
+    "A4": {
+      "type": "animation",
+      "source": "ruin_A4_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_01.png",
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_02.png",
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_03.png",
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_04.png",
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_05.png",
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_06.png",
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_07.png",
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_08.png",
+        "02_ANIMATIONS/A4/cyber_beast_run_pounce_frame_09.png"
+      ]
+    },
+    "A5": {
+      "type": "animation",
+      "source": "ruin_A5_masked.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_01.png",
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_02.png",
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_03.png",
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_04.png",
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_05.png",
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_06.png",
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_07.png",
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_08.png",
+        "02_ANIMATIONS/A5/assault_drone_hover_fire_frame_09.png"
+      ]
+    },
+    "A6": {
+      "type": "animation",
+      "source": "ruin_A6_cutout.png",
+      "atlas_size": [
+        1920,
+        1280
+      ],
+      "grid": [
+        3,
+        3
+      ],
+      "cell_dimensions": [
+        640.0,
+        426.6666666666667
+      ],
+      "files": [
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_01.png",
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_02.png",
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_03.png",
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_04.png",
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_05.png",
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_06.png",
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_07.png",
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_08.png",
+        "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_09.png"
+      ]
+    }
+  }
+}
