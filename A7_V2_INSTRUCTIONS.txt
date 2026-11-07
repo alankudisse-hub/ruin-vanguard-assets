@@ -1,0 +1,9 @@
+WESTIGY RUIN VANGUARD — A7 V2 ONLY
+
+Place the 03_NEW_ANIMATIONS directory into the root of the existing cloned GitHub repository.
+Replace only the 9 matching A7 PNG images when Windows asks.
+DO NOT replace manifest.json or other A1-A6 / A8-A16 frames.
+
+IMPORTANT: Meta AI repeated several similar poses in the input sheet.
+These PNGs improve background transparency, but they CANNOT create missing motion frames.
+A smoother motion cycle may require regenerating only A7 with clearly distinct poses.
