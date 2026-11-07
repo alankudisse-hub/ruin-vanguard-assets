@@ -407,6 +407,206 @@
         "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_08.png",
         "02_ANIMATIONS/A6/cyan_energy_orb_pulse_frame_09.png"
       ]
+    },
+    "A7": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "S1-ruin-vanguard-missing-animations-expansion-only-us-4.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_01.png",
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_02.png",
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_03.png",
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_04.png",
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_05.png",
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_06.png",
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_07.png",
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_08.png",
+        "03_NEW_ANIMATIONS/A7/biomechanical_mutant_walk_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A8": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "S1-ruin-vanguard-missing-animations-expansion-only-us-3.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_01.png",
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_02.png",
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_03.png",
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_04.png",
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_05.png",
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_06.png",
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_07.png",
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_08.png",
+        "03_NEW_ANIMATIONS/A8/scavenger_raider_walk_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A9": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "S1-ruin-vanguard-missing-animations-expansion-only-us-2.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_01.png",
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_02.png",
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_03.png",
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_04.png",
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_05.png",
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_06.png",
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_07.png",
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_08.png",
+        "03_NEW_ANIMATIONS/A9/toxic_hazmat_soldier_walk_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A10": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "S1-ruin-vanguard-missing-animations-expansion-only-us.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_01.png",
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_02.png",
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_03.png",
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_04.png",
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_05.png",
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_06.png",
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_07.png",
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_08.png",
+        "03_NEW_ANIMATIONS/A10/heavy_shield_guardian_walk_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A11": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "S2-ruin-vanguard-missing-animations-expansion-only-us.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_01.png",
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_02.png",
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_03.png",
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_04.png",
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_05.png",
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_06.png",
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_07.png",
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_08.png",
+        "03_NEW_ANIMATIONS/A11/cyber_beast_run_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A12": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "image_20261107_195342.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_01.png",
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_02.png",
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_03.png",
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_04.png",
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_05.png",
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_06.png",
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_07.png",
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_08.png",
+        "03_NEW_ANIMATIONS/A12/assault_robot_walk_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A13": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "image_20261107_195348.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_01.png",
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_02.png",
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_03.png",
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_04.png",
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_05.png",
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_06.png",
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_07.png",
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_08.png",
+        "03_NEW_ANIMATIONS/A13/spider_bot_walk_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A14": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "S3-ruin-vanguard-missing-animations-expansion-only-us.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_01.png",
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_02.png",
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_03.png",
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_04.png",
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_05.png",
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_06.png",
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_07.png",
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_08.png",
+        "03_NEW_ANIMATIONS/A14/juggernaut_behemoth_walk_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A15": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "S1-ruin-vanguard-missing-animations-expansion-only-us-5.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_01.png",
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_02.png",
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_03.png",
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_04.png",
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_05.png",
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_06.png",
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_07.png",
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_08.png",
+        "03_NEW_ANIMATIONS/A15/mutant_commander_walk_frame_09.png"
+      ],
+      "review_required": true
+    },
+    "A16": {
+      "type": "animation",
+      "grid": [
+        3,
+        3
+      ],
+      "source_filename": "S2-ruin-vanguard-missing-animations-expansion-only-us-2.jpg",
+      "files": [
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_01.png",
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_02.png",
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_03.png",
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_04.png",
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_05.png",
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_06.png",
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_07.png",
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_08.png",
+        "03_NEW_ANIMATIONS/A16/corrupted_assault_drone_hover_frame_09.png"
+      ],
+      "review_required": true
     }
   }
 }
