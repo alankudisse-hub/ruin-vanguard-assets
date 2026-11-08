@@ -1,0 +1,307 @@
+{
+  "project": "RUIN VANGUARD",
+  "count": 30,
+  "status": "VISUAL CANDIDATES ONLY — no proven 8x8 frame validity",
+  "weapons": [
+    {
+      "index": 1,
+      "original_filename": "image_20261108_011137.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_01_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 2,
+      "original_filename": "image_20261108_011138.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_02_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 3,
+      "original_filename": "image_20261108_011138_1.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_03_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 4,
+      "original_filename": "image_20261108_011138_2.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_04_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 5,
+      "original_filename": "image_20261108_011139.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_05_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 6,
+      "original_filename": "image_20261108_011140.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_06_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 7,
+      "original_filename": "image_20261108_011048.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_07_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 8,
+      "original_filename": "image_20261108_011049.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_08_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 9,
+      "original_filename": "image_20261108_011049_1.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_09_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 10,
+      "original_filename": "image_20261108_011050.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_10_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 11,
+      "original_filename": "image_20261108_011051.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_11_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 12,
+      "original_filename": "image_20261108_011051_1.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_12_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 13,
+      "original_filename": "image_20261108_011051_2.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_13_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 14,
+      "original_filename": "image_20261108_011052.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_14_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 15,
+      "original_filename": "image_20261108_011052_1.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_15_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 16,
+      "original_filename": "image_20261108_011053.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_16_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 17,
+      "original_filename": "image_20261108_011053_1.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_17_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 18,
+      "original_filename": "image_20261108_011054.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_18_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 19,
+      "original_filename": "image_20261108_011055.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_19_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 20,
+      "original_filename": "image_20261108_011055_1.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_20_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 21,
+      "original_filename": "image_20261108_011056.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_21_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 22,
+      "original_filename": "image_20261108_011059.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_22_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 23,
+      "original_filename": "image_20261108_011130.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_23_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 24,
+      "original_filename": "image_20261108_011135.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_24_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 25,
+      "original_filename": "image_20261108_011135_1.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_25_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 26,
+      "original_filename": "image_20261108_011135_2.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_26_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 27,
+      "original_filename": "image_20261108_011135_3.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_27_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 28,
+      "original_filename": "image_20261108_011136.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_28_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 29,
+      "original_filename": "image_20261108_011136_1.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_29_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    },
+    {
+      "index": 30,
+      "original_filename": "image_20261108_011136_2.jpg",
+      "archive_filename": "WEAPON_CANDIDATE_30_ORIGINAL.jpg",
+      "resolution": "1600x1600",
+      "source_format": "JPG",
+      "verified_8x8": false,
+      "weapon_identity": "not_verified",
+      "background_transparent": false
+    }
+  ]
+}

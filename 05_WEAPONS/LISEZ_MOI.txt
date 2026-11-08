@@ -1,0 +1,8 @@
+RUIN VANGUARD — INVENTAIRE VISUEL DES ARMES
+
+30 JPG originaux reçus, 1600 x 1600.
+Les noms CANDIDATE_01...30 correspondent à un ordre d’inventaire, PAS à une identification vérifiée des modèles.
+Les planches ne sont PAS validées en spritesheets 8x8; directions et phases ne sont pas systématiquement alignées.
+Fonds blancs; ne pas effectuer de white-to-alpha automatique sans contrôle des halos et effets.
+Aucun projectile indépendant confirmé; animations et compatibilité moteur à vérifier.
+Ce ZIP est destiné à conserver et classer les originaux, PAS à être déclaré directement opérationnel dans le jeu.
